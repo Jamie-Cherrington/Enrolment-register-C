@@ -3,7 +3,7 @@ An enrolment register developed to allow students to enrol via a C# application.
 
 Features that it includes:
 
-Allows a user to input there D.O.B, gender, weather they study Full time or Part time, number of modules and number of years of study.
+Allows a user to input their D.O.B, gender, weather they study Full time or Part time, number of modules and number of years of study.
 
 The feature of removing a student from the application list 
 
