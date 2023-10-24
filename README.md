@@ -11,5 +11,5 @@ A feature that allows the user to run a report of the current stats of the curre
 
 A feature that enables the user to search for a student and retrive their info.
 
-Feature that allows the user to save and quit the application
+Feature that allows the user to save and quit the application.
 
